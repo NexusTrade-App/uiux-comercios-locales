@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases"><img src="https://img.shields.io/github/v/release/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=blue" alt="GitHub Release"></a>
-  <img src="https://img.shields.io/badge/reasoning_rules-192-green?style=for-the-badge" alt="192 Reasoning Rules">
+  <img src="https://img.shields.io/badge/reasoning_rules-199-green?style=for-the-badge" alt="199 Reasoning Rules">
   <img src="https://img.shields.io/badge/UI_styles-79_searchable-purple?style=for-the-badge" alt="79 searchable UI styles">
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x">
   <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=green" alt="License"></a>
@@ -139,11 +139,11 @@ The flagship feature of v2.0 is the **Design System Generator** - an AI-powered 
                               ▼
 ┌─────────────────────────────────────────────────────────────────┐
 │  2. MULTI-DOMAIN SEARCH (5 parallel searches)                   │
-│     • Product type matching (192 categories)                    │
+│     • Product type matching (199 categories)                    │
 │     • Style recommendations (79 searchable; 50 active)          │
-│     • Color palette selection (192 palettes)                    │
+│     • Color palette selection (199 palettes)                    │
 │     • Landing page patterns (34 patterns)                       │
-│     • Typography pairing (74 font combinations)                 │
+│     • Typography pairing (81 font combinations)                 │
 └─────────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -163,7 +163,7 @@ The flagship feature of v2.0 is the **Design System Generator** - an AI-powered 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### 192 Industry-Specific Reasoning Rules
+### 199 Industry-Specific Reasoning Rules
 
 The reasoning engine includes specialized rules for:
 
@@ -189,12 +189,12 @@ Each rule includes:
 ## Features
 
 - **79 Searchable UI Styles (50 active)** - Glassmorphism, Claymorphism, Minimalism, Brutalism, Neumorphism, Bento Grid, Dark Mode, AI-Native UI, and more
-- **192 Color Palettes** - Industry-specific palettes aligned 1:1 with the 192 product types
-- **74 Font Pairings** - Curated typography combinations with Google Fonts imports
+- **199 Color Palettes** - Industry-specific palettes aligned 1:1 with the 199 product types
+- **81 Font Pairings** - Curated typography combinations with Google Fonts imports
 - **25 Chart Types** - Recommendations for dashboards and analytics
 - **22 Tech Stacks** - React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, HTML+Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, Three.js, JavaFX, WPF, WinUI 3, UWP, Avalonia, Uno Platform
 - **119 UX Guidelines** - Best practices, anti-patterns, accessibility rules, resilient text layout, compact labels, and cancellable interactions
-- **192 Reasoning Rules** - Industry-specific design system generation (NEW in v2.0)
+- **199 Reasoning Rules** - Industry-specific design system generation (NEW in v2.0)
 
 ### Resilient Text and Compact UI
 
@@ -235,7 +235,7 @@ Many users ask about the differences between the open-source and premium version
 
 ### 🟢 Basic Version (This Repository)
 * **Fully Open Source:** Perfect for individual developers, hobbyists, and standard projects.
-* **Core UI/UX Intelligence:** Full access to 79 searchable UI styles (50 active), 192 product types, color palettes, and curated font pairings.
+* **Core UI/UX Intelligence:** Full access to 79 searchable UI styles (50 active), 199 product types, color palettes, and curated font pairings.
 * **Smart Recommendations:** Built-in BM25 search engine for highly accurate design matching.
 * **Cross-Platform Support:** Stack-specific guidelines supporting 22 major frameworks (React, Vue, Tailwind, iOS, Android, etc.).
 * **Design System Generation:** Instantly generate tailored UI rules, patterns, and logic via CLI.

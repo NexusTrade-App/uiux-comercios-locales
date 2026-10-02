@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/releases"><img src="https://img.shields.io/github/v/release/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=blue" alt="GitHub 릴리스"></a>
-  <img src="https://img.shields.io/badge/reasoning_rules-192-green?style=for-the-badge" alt="추론 규칙 192개">
+  <img src="https://img.shields.io/badge/reasoning_rules-199-green?style=for-the-badge" alt="추론 규칙 192개">
   <img src="https://img.shields.io/badge/UI_styles-79_searchable-purple?style=for-the-badge" alt="검색 가능한 UI 스타일 79개">
   <img src="https://img.shields.io/badge/python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x">
   <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nextlevelbuilder/ui-ux-pro-max-skill?style=for-the-badge&color=green" alt="라이선스"></a>
@@ -108,7 +108,7 @@ v2.0의 핵심 기능은 **디자인 시스템 생성기**입니다. AI 기반 �
    • 스타일 추천(검색 가능 79개, 활성 50개)
    • 색상 팔레트 선택(192개 팔레트)
    • 랜딩 페이지 패턴(34개 패턴)
-   • 타이포그래피 조합(74개 글꼴 조합)
+   • 타이포그래피 조합(81개 글꼴 조합)
 
    ↓
 
@@ -152,7 +152,7 @@ v2.0의 핵심 기능은 **디자인 시스템 생성기**입니다. AI 기반 �
 
 - **검색 가능한 UI 스타일 79개(활성 50개)** - 글래스모피즘, 클레이모피즘, 미니멀리즘, 브루탈리즘, 뉴모피즘, 벤토 그리드, 다크 모드, AI 네이티브 UI 등
 - **색상 팔레트 192개** - 192개 제품 유형과 1:1로 정렬된 산업별 팔레트
-- **글꼴 조합 74개** - Google Fonts 가져오기 코드가 포함된 엄선된 타이포그래피 조합
+- **글꼴 조합 81개** - Google Fonts 가져오기 코드가 포함된 엄선된 타이포그래피 조합
 - **차트 유형 25개** - 대시보드 및 분석 화면을 위한 권장 사항
 - **기술 스택 22개** - React, Next.js, Astro, Vue, Nuxt.js, Nuxt UI, Svelte, SwiftUI, React Native, Flutter, HTML+Tailwind, shadcn/ui, Jetpack Compose, Angular, Laravel, Three.js, JavaFX, WPF, WinUI 3, UWP, Avalonia, Uno Platform
 - **UX 가이드라인 119개** - 모범 사례, 안티패턴, 접근성 규칙, 유연한 텍스트 레이아웃, 간결한 레이블, 취소 가능한 상호작용

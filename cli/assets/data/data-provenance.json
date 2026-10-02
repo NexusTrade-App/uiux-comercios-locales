@@ -1343,6 +1343,181 @@
           "ref": "https://github.com/phosphor-icons/react"
         }
       ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "artisan-handmade-jewelry-and-macrame-accessories",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Artisan Handmade Jewelry & Macramé Accessories"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.86,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Artisan Handmade Jewelry & Macramé Accessories"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Artisan Handmade Jewelry & Macramé Accessories"
+        }
+      ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "neighborhood-hair-salon-and-barbershop",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Neighborhood Hair Salon & Barbershop"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.87,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Neighborhood Hair Salon & Barbershop"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Neighborhood Hair Salon & Barbershop"
+        }
+      ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "local-bakery-rotisserie-and-cafe",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Local Bakery, Rotisserie & Café"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.88,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Local Bakery, Rotisserie & Café"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Local Bakery, Rotisserie & Café"
+        }
+      ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "hardware-store-and-building-supplies",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Hardware Store & Building Supplies"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.86,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Hardware Store & Building Supplies"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Hardware Store & Building Supplies"
+        }
+      ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "aesthetics-nail-and-day-spa-studio",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Aesthetics, Nail & Day-Spa Studio"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.85,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Aesthetics, Nail & Day-Spa Studio"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Aesthetics, Nail & Day-Spa Studio"
+        }
+      ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "neighborhood-clothing-boutique",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Neighborhood Clothing Boutique"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.84,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Neighborhood Clothing Boutique"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Neighborhood Clothing Boutique"
+        }
+      ]
+    },
+    {
+      "entityKind": "reasoning",
+      "entityId": "corner-kiosk-and-grocery-store",
+      "sourceFile": "ui-reasoning.csv",
+      "sourceKey": {
+        "UI_Category": "Corner Kiosk & Grocery Store"
+      },
+      "status": "active",
+      "verifiedAt": "2026-10-02",
+      "sla": "needs-review",
+      "appliesTo": [
+        "design-system"
+      ],
+      "confidence": 0.85,
+      "sources": [
+        {
+          "type": "derived",
+          "ref": "products.csv#Product Type=Corner Kiosk & Grocery Store"
+        },
+        {
+          "type": "derived",
+          "ref": "colors.csv#Product Type=Corner Kiosk & Grocery Store"
+        }
+      ]
     }
   ]
 }

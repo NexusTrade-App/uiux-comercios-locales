@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-08-26",
+  "verifiedAt": "2026-10-02",
   "counts": {
     "styles": {
       "total": 88,
@@ -9,10 +9,10 @@
       "supplemental": 29,
       "deprecated": 9
     },
-    "products": 192,
-    "palettes": 192,
-    "reasoningProfiles": 192,
-    "fontPairings": 74,
+    "products": 199,
+    "palettes": 199,
+    "reasoningProfiles": 199,
+    "fontPairings": 81,
     "googleFonts": 1934,
     "curatedIcons": 105,
     "upstreamPhosphorIcons": 1512,
