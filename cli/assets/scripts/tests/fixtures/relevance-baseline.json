@@ -93,14 +93,14 @@
       "diagnostics": {
         "abstained": false,
         "calibration_version": "2026-08-12-v1",
-        "margin": 17.678305652755625,
+        "margin": 17.348899174716507,
         "normalized_query": "beauty spa wellness soft pink lavender palette",
         "query_rewrites": [],
         "reason": "matched",
-        "runner_up_score": 7.159928053272678,
+        "runner_up_score": 7.243581063824525,
         "search_query": "beauty spa wellness soft pink lavender palette",
         "token_coverage": 0.8571428571428571,
-        "top_score": 24.838233706028305
+        "top_score": 24.592480238541032
       },
       "expectedRoute": null,
       "grades": [
@@ -132,14 +132,14 @@
       "diagnostics": {
         "abstained": false,
         "calibration_version": "2026-08-12-v1",
-        "margin": 0.29636583933813654,
+        "margin": 0.3324590516226378,
         "normalized_query": "cybersecurty threat dashboard matrix green dark pallete",
         "query_rewrites": [],
         "reason": "matched",
-        "runner_up_score": 6.62187033218134,
+        "runner_up_score": 6.717681723132628,
         "search_query": "cybersecurty threat dashboard matrix green dark pallete",
         "token_coverage": 0.5714285714285714,
-        "top_score": 6.918236171519476
+        "top_score": 7.050140774755266
       },
       "expectedRoute": null,
       "grades": [
@@ -323,14 +323,14 @@
       "diagnostics": {
         "abstained": false,
         "calibration_version": "2026-08-12-v1",
-        "margin": 18.297270037662248,
+        "margin": 18.118694767581605,
         "normalized_query": "salon massage skincare booking and wellness service",
         "query_rewrites": [],
         "reason": "matched",
-        "runner_up_score": 7.065266409246995,
+        "runner_up_score": 7.019274357269737,
         "search_query": "salon massage skincare booking and wellness service",
         "token_coverage": 1.0,
-        "top_score": 25.362536446909242
+        "top_score": 25.13796912485134
       },
       "expectedRoute": null,
       "grades": [
@@ -348,21 +348,35 @@
       }
     },
     {
-      "actual": [],
+      "actual": [
+        {
+          "Product Type": "Digital Products/Downloads"
+        },
+        {
+          "Product Type": "Telemedicine Platform"
+        },
+        {
+          "Product Type": "Status Page / Incident Management"
+        }
+      ],
       "diagnostics": {
-        "abstained": true,
+        "abstained": false,
         "calibration_version": "2026-08-12-v1",
-        "margin": 0.6408757429869336,
+        "margin": 0.6064884620035125,
         "normalized_query": "platform for monitoring digital threats and protecting systems",
         "query_rewrites": [],
-        "reason": "low-confidence",
-        "runner_up_score": 5.294892947558106,
+        "reason": "matched",
+        "runner_up_score": 5.418239789221939,
         "search_query": "platform for monitoring digital threats and protecting systems",
         "token_coverage": 0.5,
-        "top_score": 5.935768690545039
+        "top_score": 6.024728251225452
       },
       "expectedRoute": null,
-      "grades": [],
+      "grades": [
+        0,
+        0,
+        0
+      ],
       "id": "domain-product-security-paraphrase",
       "route": "product",
       "scores": {
@@ -474,14 +488,14 @@
       "diagnostics": {
         "abstained": false,
         "calibration_version": "2026-08-12-v1",
-        "margin": 0.4054912435846667,
+        "margin": 0.35466899635356786,
         "normalized_query": "elegant luxury serif heading with clean readable body font",
         "query_rewrites": [],
         "reason": "matched",
-        "runner_up_score": 7.678808998514057,
+        "runner_up_score": 7.88419198579622,
         "search_query": "elegant luxury serif heading with clean readable body font",
         "token_coverage": 0.6666666666666666,
-        "top_score": 8.084300242098724
+        "top_score": 8.238860982149788
       },
       "expectedRoute": null,
       "grades": [
@@ -516,14 +530,14 @@
       "diagnostics": {
         "abstained": false,
         "calibration_version": "2026-08-12-v1",
-        "margin": 11.232450027626605,
+        "margin": 11.532751758969868,
         "normalized_query": "dyslexia frendly hyperlegible inclusive type pairing",
         "query_rewrites": [],
         "reason": "matched",
-        "runner_up_score": 3.7239164952881945,
+        "runner_up_score": 3.838629479241448,
         "search_query": "dyslexia frendly hyperlegible inclusive type pairing",
         "token_coverage": 0.6666666666666666,
-        "top_score": 14.956366522914799
+        "top_score": 15.371381238211315
       },
       "expectedRoute": null,
       "grades": [
@@ -2839,10 +2853,10 @@
         "normalized_query": "hex color palette accent foreground destructive tokens",
         "query_rewrites": [],
         "reason": "matched",
-        "runner_up_score": 1.3810723013506525,
+        "runner_up_score": 1.4127394728181366,
         "search_query": "hex color palette accent foreground destructive tokens",
         "token_coverage": 0.14285714285714285,
-        "top_score": 1.3810723013506525
+        "top_score": 1.4127394728181366
       },
       "expectedRoute": "color",
       "grades": [
@@ -3277,7 +3291,7 @@
     "typoRecoveryAt3": 1.0
   },
   "oracleFingerprint": "02e7226428c64a995ec24ae104ce4d186f5f91bf0f062556e90ef9b0fcb6d67a",
-  "runtimeFingerprint": "3f902a88e2f9bd5f12965664cd31a60a31117de69f8b19ad1968536ea3c984b7",
+  "runtimeFingerprint": "480bae674ccad4cb06259aea50b2e79f29eb714464e56bd09a14cb1bc79e467a",
   "samples": {
     "cases": 90,
     "designSystem": 8,
